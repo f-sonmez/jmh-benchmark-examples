@@ -6,7 +6,7 @@ the [JMH](http://openjdk.java.net/projects/code-tools/jmh/) framework.
 
 ## Building and running the project
 
-Currently, the project can be built and run with JDK 11 and later. This is
+Currently, the project can be built and run with JDK 17 and later. This is
 a Maven project and is built by:
 
     $ mvn clean install
