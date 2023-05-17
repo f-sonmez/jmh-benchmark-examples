@@ -1,4 +1,4 @@
-package features.stream;
+package features.seventeen.stream;
 
 import java.util.List;
 import java.util.stream.Collectors;

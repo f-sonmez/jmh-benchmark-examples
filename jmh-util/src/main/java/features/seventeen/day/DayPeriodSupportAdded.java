@@ -1,4 +1,4 @@
-package features.day;
+package features.seventeen.day;
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
